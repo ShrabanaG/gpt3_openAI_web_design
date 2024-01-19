@@ -1,6 +1,10 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# This web design is deployed using Firebase. 
+Open [https://gpt3-openai-web-design.web.app/] to view in deployed version.
 
 ## Available Scripts
 
